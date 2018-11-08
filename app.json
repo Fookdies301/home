@@ -2,7 +2,7 @@
   "name": "You2PHP",
   "description": "A free and open-source youtube video proxy script[Written in PHP]",
   "website": "https://github.com/Fookdies301/",
-  "repository": "https://github.com/Fookdies301/Point-point-sequence",
+  "repository": "https://github.com/Fookdies301/home",
   "success_url": "/install.php",
   "env":{
     "APIKEY":{
